@@ -22,7 +22,8 @@
 
 
 <p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekramh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ekramh&" alt="ekramh" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ekramh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramh&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekramh&show_icons=true&locale=en&layout=compact" alt="ekramh" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ekramh&show_icons=true&locale=en&layout=compact" alt="ekramh" /></p>
